@@ -1,0 +1,44 @@
+# main links
+main:
+  - title: "Main"
+    url: https://netios.github.io/
+
+  - title: "Profile"
+    url: /profile/
+
+  - title: "GitHub"
+    url: https://github.com/netios
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+
+# sidebar navigation (categories)
+# 2022.04.17
+categories:
+- title: "Developer"
+  url: /categories/developer/
+- title: "Kubernetes"
+  url: /categories/kubernetes/
+- title: "AWS"
+  url: /categories/AWS/
+- title: "AI"
+  url: /categories/ai/
+- title: "DevOps"
+  url: /categories/devops/
+
+# - title: Basics
+#   children:
+#       - title: "Developer"
+#         url: /categories/developer/
+#       - title: "Kubernetes"
+#         url: /categories/Kubernetes/
+#       - title: "AWS"
+#         url: /categories/AWS/
+#       - title: "AI"
+#         url: /categories/ai/
+#       - title: "DevOps"
+#         url: /categories/devops/
